@@ -9,7 +9,7 @@ import { EquipmentProvider } from '@/context/equipment-context';
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata: Metadata = {
-  title: 'Plataforma 3100',
+  title: 'Novamed Ingeniería',
   description: 'Plataforma de gestión para la Resolución 3100',
 };
 
