@@ -13,7 +13,7 @@ export default function AdminDashboardPage() {
       </header>
       <Card>
         <CardHeader>
-          <CardTitle>Bienvenido, Administrador</CardTitle>
+          <CardTitle>Bienvenido Andres</CardTitle>
           <CardDescription>Esta es tu vista de administrador principal.</CardDescription>
         </CardHeader>
         <CardContent>
